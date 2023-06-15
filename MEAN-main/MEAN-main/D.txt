@@ -1,0 +1,49 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Thaneshwara848/SL_MeanStack.git
+git push -u origin main
+  git config --global user.email "thaneshwaramanjunatha@gmail.com"
+  git config --global user.name "Thaneshwara"
+
+
+===============================
+HTML
+                   Break (<br></br>)
+                   Paragraph (<p></p> Paragraph tag gives one more line)
+                   HR (<hr> horizontal tag gives one line)
+
+                   Closing Tags - H1-H6, Span, div, P 
+                   Non Closing Tags - HR, BR, IMG
+                   Ordered & Un-Ordered List 
+                    Table - Table. th, td , cellspacing, rowspan, colspan
+                    images :
+                    Links: 
+                    input forms 
+                    audio / vedio
+                    map : googlr map 
+                    text formating 
+                    colors
+                    local sotrgae / Session sotrgae
+                  
+HTML :
+      Hyper text markup lang
+      just only the page : no style 
+
+CSS :
+    style 
+    Cascading style sheet
+    1) it describe how html elememts are to be displayed on screen , 
+      Look and feel 
+    2) css saves a lot of work it can controle the multple page 
+    
+    Selectors : 
+      id 
+      class 
+      tag 
+      multyple  tag 
+      Universal 
+
+
+      
